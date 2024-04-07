@@ -30,6 +30,12 @@ function Foreground() {
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "green" },
     },
     {
+      desc: "Hey! this is my personal note making app, Check it out!!",
+      filesize: ".4mb",
+      close: true,
+      tag: { isOpen: false, tagTitle: "Download Now", tagColor: "green" },
+    },
+    {
       desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
       filesize: ".9mb",
       close: false,
